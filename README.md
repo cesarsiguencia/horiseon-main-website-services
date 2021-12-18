@@ -10,3 +10,5 @@ https://cesarsiguencia.github.io/horiseon-main-website-services/
 ![Screenshot 1](/assets/screenshots/screenshot-top-part.jpeg)
 
 ![Screenshot 2](/assets/screenshots/screenshot-bottom-part.jpeg)
+
+Thank you for viewing my repository!
