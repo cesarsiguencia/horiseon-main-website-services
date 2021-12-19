@@ -74,17 +74,13 @@ article {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/*all articles and benefits class sharing same right margin length*/ 
-.articles, .benefits {
-    margin-right: 20px;
-}
-
 /*Article attributes consolidated and reduced if multiple commands are repeated */
 .articles {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
+    margin-right: 20px;
 }
 
 .articles img {
@@ -122,6 +118,7 @@ p {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
+    margin-right: 20px;
 }
 
 .sidebar {
