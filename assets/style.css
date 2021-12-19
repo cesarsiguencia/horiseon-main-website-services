@@ -68,12 +68,16 @@ a {
     margin-left: 20px;
 }
 
-/*articles and aside elements sharing same font color and family*/ 
+/*all article elements sharing same font color and family*/ 
 article {
     color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/*all articles and benefits class sharing same right margin length*/ 
+.articles, .benefits {
+    margin-right: 20px;
+}
 
 /*Article attributes consolidated and reduced if multiple commands are repeated */
 .articles {
